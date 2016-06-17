@@ -16,6 +16,7 @@ public class Chart implements Serializable{
 	 */
 	//This is a comment
 	// this is second comment
+	// this is third comment
 	@Id	
 	@GeneratedValue(strategy = GenerationType.AUTO)\
 	private long dmdmdmdm;
