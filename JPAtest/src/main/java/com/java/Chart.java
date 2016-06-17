@@ -14,7 +14,7 @@ public class Chart implements Serializable{
 	/**
 	 * 
 	 */
-	
+	//hihihihihihihihihihihihih
 	@Id	
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long chart_ID;
