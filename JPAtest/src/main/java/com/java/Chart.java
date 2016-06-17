@@ -14,9 +14,11 @@ public class Chart implements Serializable{
 	/**
 	 * 
 	 */
-	//hihihihihihihihihihihihih
+	//This is a comment
+	// this is second comment
 	@Id	
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.AUTO)\
+	private long dmdmdmdm;
 	private Long chart_ID;
 	private byte[] img_bin;
 	private String img_link;
